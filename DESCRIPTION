@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Sonja", "Friesen", , "sfriesen2322@gmail.com", role = c("aut", "cre"))
 Description: Convenience functions to make some common tasks with string
-    manipulation and regular expressions a bit easier
+    manipulation and regular expressions a bit easier.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
